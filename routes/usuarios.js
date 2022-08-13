@@ -14,9 +14,5 @@ router.delete('/', usuariosDelete );
 
 router.patch('/', usuariosPatch)
 
-router.get('*', (req, res) => {
-    res.sendFile('404.html', { root: 'public' })
-});
-
 
 module.exports = router;
