@@ -1,5 +1,9 @@
 # WebServer + RestServer
 
+## Production Server
+
+https://restserver-zack.herokuapp.com/ 
+
 ## Reconstruir node_modules
 
 ```
@@ -15,6 +19,11 @@ npm start
 ## Backend endpoint
 
 * http://localhost:8080/api/usuarios
+
+
+## Production endpoint
+
+* https://restserver-zack.herokuapp.com/api/usuarios 
 
 Requests examples: 
 
