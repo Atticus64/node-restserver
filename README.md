@@ -23,7 +23,7 @@ npm start
 
 ## Production endpoint
 
-* https://restserver-zack.herokuapp.com/api/usuarios 
+* https://node-restserver-production.up.railway.app/api/usuarios 
 
 Requests examples: 
 
